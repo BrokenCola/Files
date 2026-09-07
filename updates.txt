@@ -1,1 +1,22 @@
-Added New Files!
+# 📢 File Finder — Update Log
+
+We’ve got some new improvements for **File Finder!** 🚀
+
+### 🆕 New: `/updates`
+
+You can now use **`/updates`** to view the most recent File Finder updates, changes, and new features without having to keep up with every announcement.
+
+### 🖼️ File Preview Images
+
+When File Finder sends a file through DMs, it can now include an **image/preview alongside the file** so you can get a better idea of what you're receiving before opening it.
+
+### 🔧 Improvements
+
+* Improved file-finding experience
+* Cleaner DM responses
+* Better update tracking
+* Various small fixes and improvements
+
+More updates coming soon! 👀
+
+**Thanks for using File Finder! ❤️**
