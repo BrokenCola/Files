@@ -1,4 +1,4 @@
-# 📢 File Finder — Update Log
+# 📢 File Finder (Early Access) v0.1 — Update Log
 
 We’ve got some new improvements for **File Finder!** 🚀
 
