@@ -1,22 +1,48 @@
-# 📢 File Finder (Early Access) v0.1 — Update Log
+# 📁 File Finder — Early Access v0.2
 
-We’ve got some new improvements for **File Finder!** 🚀
+**v0.2 IS HERE! 🚀**
 
-### 🆕 New: `/updates`
+We’ve just pushed a brand-new update to **File Finder**, bringing new commands, improved search, longer timeouts, and some UI polish!
 
-You can now use **`/updates`** to view the most recent File Finder updates, changes, and new features without having to keep up with every announcement.
+## 🆕 New Commands
 
-### 🖼️ File Preview Images
+### 🎲 `/random`
 
-When File Finder sends a file through DMs, it can now include an **image/preview alongside the file** so you can get a better idea of what you're receiving before opening it.
+Get a **random Roblox `.rbxl` file** from the repository.
+Not sure what to look for? Let File Finder pick for you!
 
-### 🔧 Improvements
+### 📊 `/stats`
 
-* Improved file-finding experience
-* Cleaner DM responses
-* Better update tracking
-* Various small fixes and improvements
+View **File Finder's bot and repository statistics** in one place.
 
-More updates coming soon! 👀
+### 🔥 `/trending`
 
-**Thanks for using File Finder! ❤️**
+See the **most searched queries during the current session** and find out what everyone else is searching for.
+
+## ⚡ Improvements
+
+### 🔎 Enhanced File Search
+
+The `/find` system has been improved to make searches **faster, more accurate, and better at finding matching `.rbxl` files**.
+
+### ⏱️ Longer Timeout
+
+The `/find` timeout has been increased from **60 seconds → 2 minutes** when displaying up to **20 files**.
+
+You now have more time to browse through the results without the command timing out on you.
+
+### ✨ UI Polish
+
+File Finder's interface has received a fresh coat of paint with various **UI improvements and visual polish**.
+
+...Although, with every UI improvement comes at least one bug. 💀
+
+## 🚀 More Coming Soon
+
+This is only **v0.2** — there's still plenty more planned for File Finder.
+
+Expect **more features, improvements, and new commands** in future updates.
+
+Thank you to everyone using File Finder during **Early Access** and helping us improve it! ❤️
+
+**— File Finder Development Team**
